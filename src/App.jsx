@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Toaster } from 'sonner';
-import Dashboard from './components/Dashboard';
+import Dashboard from './pages/Dashboard';
 import './App.css';
 
 function App() {
